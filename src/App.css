@@ -1,0 +1,32 @@
+body{
+  font-family: sans-serif;
+}
+.App{
+  display: flex;
+  justify-content: center;
+}
+.input-container{
+  display: grid;
+  border: 1px solid black;
+  padding: 30px;
+}
+.output-container{
+  display: grid;
+  border: 1px solid black;
+  padding: 25px;
+}
+.convert-button{
+  margin-left: 50px;
+  margin-right: 50px;
+  height: 20px;
+  margin-top: 80px;
+}
+.currency{
+  width: 70px;
+  padding-left: 20x;
+  margin-left: 40px;
+  margin-top: 15px;
+}
+h3{
+  text-align: center;
+}
